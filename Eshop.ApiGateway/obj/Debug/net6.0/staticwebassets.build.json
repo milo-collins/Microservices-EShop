@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l/CZg551BCBpCZm1y+oRHKwYLtJci4XsGY+9NDxpS6g=",
+  "Source": "Eshop.ApiGateway",
+  "BasePath": "_content/Eshop.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eILtATEQvhi7ZQ6pnfz4+UiaDYPBeO2LpUzHou50EkrKjzUkSIF8BhgvaLDTY2gAElNfuFQMGK7ePC4Ir3h1zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\eLearning\\Microservices\\EShop\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Milo.Collins\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Milo.Collins\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Milo.Collins\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Milo.Collins\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

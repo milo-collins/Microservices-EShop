@@ -1,0 +1,15 @@
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\bin\Debug\net6.0\EShop.Inventory.DataProvider.deps.json
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\bin\Debug\net6.0\EShop.Inventory.DataProvider.dll
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\bin\Debug\net6.0\EShop.Inventory.DataProvider.pdb
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\bin\Debug\net6.0\EShop.Infrastructure.dll
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\bin\Debug\net6.0\EShop.Infrastructure.pdb
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\obj\Debug\net6.0\EShop.Inventory.DataProvider.csproj.AssemblyReference.cache
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\obj\Debug\net6.0\EShop.Inventory.DataProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\obj\Debug\net6.0\EShop.Inventory.DataProvider.AssemblyInfoInputs.cache
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\obj\Debug\net6.0\EShop.Inventory.DataProvider.AssemblyInfo.cs
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\obj\Debug\net6.0\EShop.Inventory.DataProvider.csproj.CoreCompileInputs.cache
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\obj\Debug\net6.0\EShop.Inventory.DataProvider.csproj.CopyComplete
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\obj\Debug\net6.0\EShop.Inventory.DataProvider.dll
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\obj\Debug\net6.0\refint\EShop.Inventory.DataProvider.dll
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\obj\Debug\net6.0\EShop.Inventory.DataProvider.pdb
+C:\Code\eLearning\Microservices\EShop\EShop.Inventory.DataProvider\obj\Debug\net6.0\ref\EShop.Inventory.DataProvider.dll

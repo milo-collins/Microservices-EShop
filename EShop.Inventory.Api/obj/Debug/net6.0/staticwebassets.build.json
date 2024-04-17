@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p4JLpZs5sPQ+2cOIby46ONEBW3iW9GEXqaJqZWFRRRQ=",
+  "Source": "EShop.Inventory.Api",
+  "BasePath": "_content/EShop.Inventory.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

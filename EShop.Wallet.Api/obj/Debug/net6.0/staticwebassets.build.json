@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o2JUBS0T9GwLa4eHVK+ZDMcMgwXOwFhPSO6vLC15pA8=",
+  "Source": "EShop.Wallet.Api",
+  "BasePath": "_content/EShop.Wallet.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

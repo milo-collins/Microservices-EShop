@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6bdlDzrVJYDCEBY76LD7Q5OTbjvGpbxtAeWAeQs8w0A=",
+  "Source": "EShop.Product.Query.Api",
+  "BasePath": "_content/EShop.Product.Query.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
